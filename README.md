@@ -1,6 +1,6 @@
 # Currency Converter
 
-made by using React, React Query, Axios & Chakra-UI. 
+made by Mukesh Raj using React, React Query, Axios & Chakra-UI. 
 
 
 
